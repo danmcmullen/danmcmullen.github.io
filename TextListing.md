@@ -19,4 +19,4 @@ This will add a file called **list.txt** to your originally selected folder.
 Open the **list.txt** file by double clicking on it, find **list.txt** in the list and delete it. 
 ![remove list.txt](TextListing/r5.png)
 
-You are now able to rename the text file to some thing more appropriate like  It may also be copied into a Word document or converted to a PDF for delivery. 
+You are now able to rename the text file to some thing more appropriate. It may also be copied into a Word document or converted to a PDF for delivery. 
