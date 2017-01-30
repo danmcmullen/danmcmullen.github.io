@@ -1,6 +1,3 @@
----
-layout: default  
----
 ## How to create a text listing of files in a specified directory 
 
 Open the directory you need the file list from in Windows Explorer. In this example we are using the directory _InProgress_. 
