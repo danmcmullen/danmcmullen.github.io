@@ -1,6 +1,3 @@
----
-layout: default  
----
 
 ## How to create a text listing of files in a specified directory 
 
