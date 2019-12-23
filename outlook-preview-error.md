@@ -19,4 +19,9 @@ Restart Outlook, now it will to show you `.log` files.
 
 ![Open With](Tips/TipPreviewWorking.png)  
 
-- - -  
+###### ---  
+
+- [&uarr;](#top)  
+- <a href="javascript:javascript:history.go(-1)">Back</a> 
+- [Home](https://danmcmullen.github.io) 
+
