@@ -1,8 +1,8 @@
 # <a name="top"></a> danmcmullen.github.io  <!--Top navigation Anchor-->  
   
-[Text Listing](text-listing.md)  
-[Outlook Preview Error](outlook-preview-error.md)  
-[Microsoft SQL Server Management Studio Remembered Logins](mssms-remembered-logins.md)  
+- [Text Listing](text-listing.md)  
+- [Outlook Preview Error](outlook-preview-error.md)  
+- [Microsoft SQL Server Management Studio Remembered Logins](mssms-remembered-logins.md)  
 
 [ReadMe](README.md)  
 
