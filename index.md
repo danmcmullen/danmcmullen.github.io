@@ -1,12 +1,12 @@
 # <a name="top"></a> General - Tips  <!--Top navigation Anchor-->  
 <a href="https://danmcmullen.github.io">![](Assets/home.png)</a> 
   
-[Tips](tips.md)
-[Test Listing](text-listing.md)
+[Tips](tips.md)  
+[Test Listing](text-listing.md)  
 [Outlook Preview Error](outlook-preview-error.md)  
 [Miscrosoft SQL Server Management Studio Remembered Logins](mssms-remembered-logins.md)  
 
-[ReadMe](README.md)
+[ReadMe](README.md)  
 
 
 
