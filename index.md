@@ -4,7 +4,7 @@
 - [Outlook Preview Error](outlook-preview-error.md)  
 - [Microsoft SQL Server Management Studio Remembered Logins](mssms-remembered-logins.md)  
 
-[ReadMe](README.md)  
+- [ReadMe](README.md)  
 
 
 
