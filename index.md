@@ -11,7 +11,7 @@
 
 ###### ---  
 
-- [&uarr;](#top)  
+<!-- - [&uarr;](#top)  
 - <a href="javascript:javascript:history.go(-1)">Back</a> 
 - [Home](https://danmcmullen.github.io) 
 
