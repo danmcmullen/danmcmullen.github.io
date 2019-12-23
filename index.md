@@ -1,7 +1,6 @@
 # <a name="top"></a> danmcmullen.github.io  <!--Top navigation Anchor-->  
   
-[Tips](tips.md)  
-[Test Listing](text-listing.md)  
+[Text Listing](text-listing.md)  
 [Outlook Preview Error](outlook-preview-error.md)  
 [Miscrosoft SQL Server Management Studio Remembered Logins](mssms-remembered-logins.md)  
 
