@@ -1,9 +1,9 @@
-#### Miscrosoft SQL Server Management Studio Remembered Logins  
+#### Microsoft SQL Server Management Studio Remembered Logins  
 [&uarr;](#top)  
 
-Miscrosoft SQL Server Management Studio 2016 remembers the logins and passwords, if **Remember password** has been selected.  
+Microsoft SQL Server Management Studio 2016 remembers the logins and passwords, if **Remember password** has been selected.  
 
-![Miscrosoft SQL Server Management Studio Connect](Tips/Tip_MSSMS.png)  
+![Microsoft SQL Server Management Studio Connect](Tips/Tip_MSSMS.png)  
 
 To delete these remebered logins you will need to delete the `SqlStudio.bin` file from the following location:  
 
