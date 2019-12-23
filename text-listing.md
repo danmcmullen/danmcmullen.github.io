@@ -22,3 +22,11 @@ Open the **list.txt** file by double clicking on it, find **list.txt** in the li
 You are now able to rename the text file to some thing more appropriate. It may also be copied into a Word document or converted to a PDF for delivery. 
 
 Updated 30-January-2017
+
+###### ---  
+
+- [&uarr;](#top)  
+- <a href="javascript:javascript:history.go(-1)">Back</a> 
+- [Home](https://danmcmullen.github.io) 
+
+
