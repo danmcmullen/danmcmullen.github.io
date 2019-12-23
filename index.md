@@ -1,5 +1,5 @@
 # <a name="top"></a> General - Tips  <!--Top navigation Anchor-->  
-<a href="index.md">![](Assets/home.png)</a> 
+<a href="https://danmcmullen.github.io">![](Assets/home.png)</a> 
   
 [Outlook Preview Error](#outlook-preview-error)  
 [Miscrosoft SQL Server Management Studio Remembered Logins](#miscrosoft-sql-server-management-studio-remembered-logins)  
@@ -55,6 +55,6 @@ To delete these remebered logins you will need to delete the `SqlStudio.bin` fil
 
 - [&uarr;](#top)  
 - <a href="javascript:javascript:history.go(-1)">Back</a> 
-- [Home](Assets/home.png) 
+- [Home](https://danmcmullen.github.io) 
 
 <!-- [<font size="6">&larr;</font>](../../ConfigurationNotes.html#general)  [<font size="6">&uarr;</font>](#top) [<font size="7">&#8962;</font>](../../ConfigurationNotes.html)-->
