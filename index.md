@@ -15,4 +15,4 @@
 - <a href="javascript:javascript:history.go(-1)">Back</a> 
 - [Home](https://danmcmullen.github.io) 
 
-<!-- [<font size="6">&larr;</font>](../../ConfigurationNotes.html#general)  [<font size="6">&uarr;</font>](#top) [<font size="7">&#8962;</font>](../../ConfigurationNotes.html)-->
+[<font size="6">&larr;</font>](../../ConfigurationNotes.html#general)  [<font size="6">&uarr;</font>](#top) [<font size="7">&#8962;</font>](../../ConfigurationNotes.html)-->
