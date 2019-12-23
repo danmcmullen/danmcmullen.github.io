@@ -1,5 +1,4 @@
-# <a name="top"></a> General - Tips  <!--Top navigation Anchor-->  
-<a href="https://danmcmullen.github.io">![](Assets/home.png)</a> 
+# <a name="top"></a> danmcmullen.github.io  <!--Top navigation Anchor-->  
   
 [Tips](tips.md)  
 [Test Listing](text-listing.md)  
