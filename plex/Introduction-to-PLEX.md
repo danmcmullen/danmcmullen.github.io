@@ -3,7 +3,9 @@
 
 Saved from [Introduction to PLEX](https://mvgrafx.net/plex/) all credit to [mvgrafx.net](https://mvgrafx.net)
 
-[What's Plex?](#whats-plex) [Getting Started](#getting-started) [Playback Quality](#quality) [Libraries](#libraries) [Navigation](#navigation)  
+[Blog](./index.md)
+
+[What's Plex?](#whats-plex) | [Getting Started](#getting-started) | [Playback Quality](#quality) | [Libraries](#libraries) | [Navigation](#navigation)  
 
 ## What's Plex?  
 
