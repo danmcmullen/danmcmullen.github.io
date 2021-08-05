@@ -15,7 +15,7 @@ To delete these remebered logins you will need to delete the `SqlStudio.bin` fil
 
 > AppData is a hidden folder. You may need to show hidden folders in explorer if you try to navigate to this directory  
 
- ###### ---  
+ ##### ---  
 
 - [&uarr;](#top)  
 - <a href="javascript:javascript:history.go(-1)">Back</a> 
