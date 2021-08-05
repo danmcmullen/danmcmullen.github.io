@@ -2,7 +2,7 @@
 
 ##### Something shoud go here...
 
-<p align="right">Blog | [Plex](/plex/Introduction-to-PLEX.md) | Photos | Email</p>
+Blog | [Plex](plex/Introduction-to-PLEX.md) | Photos | Email
 
 - [The Oak Island Mystery](2019-11-23-00-06-25-the-oak-island-mystery.md)
 - [Text Listing](text-listing.md)  
