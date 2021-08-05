@@ -2,6 +2,8 @@
 
 ##### Something shoud go here...
 
+<p align="right">Blog | Plex | Photos | Email</p>
+
 - [The Oak Island Mystery](2019-11-23-00-06-25-the-oak-island-mystery.md)
 - [Resume](2020-10-21-18-53-45-link.md)
 - [Text Listing](text-listing.md)  
