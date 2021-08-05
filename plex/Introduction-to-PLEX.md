@@ -3,7 +3,7 @@
 
 Saved from [Introduction to PLEX](https://mvgrafx.net/plex/) all credit to [mvgrafx.net](https://mvgrafx.net)
 
-[Blog](./index.md)
+[Blog](../index.md)
 
 [What's Plex?](#whats-plex) | [Getting Started](#getting-started) | [Playback Quality](#quality) | [Libraries](#libraries) | [Navigation](#navigation)  
 
