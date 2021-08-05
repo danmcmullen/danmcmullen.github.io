@@ -1,0 +1,4 @@
+title: jomalo - plex
+theme: blank
+sort: name z-a
+description: [something should go here](https://jomalo.smvi.co)  
