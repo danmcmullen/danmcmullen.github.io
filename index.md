@@ -2,7 +2,7 @@
 
 ##### Something shoud go here...
 
-Blog | [Plex](plex/Introduction-to-PLEX.md) | Photos | Email
+Blog | [Plex](plex/Introduction-to-PLEX.md) | a href="http://photo.jomalo.com/" target="_blank">Photos</a> | Email
 
 - [The Oak Island Mystery](2019-11-23-00-06-25-the-oak-island-mystery.md)
 - [Text Listing](text-listing.md)  
