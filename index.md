@@ -10,7 +10,6 @@
 - [Text Listing](2019-12-22-00-00-00-text-listing.md)  
 - [Outlook Preview Error](2019-12-22-00-00-02-outlook-preview-error.md)  
 - [Microsoft SQL Server Management Studio Remembered Logins](2019-12-22-00-00-01-mssms-remembered-logins.md)  
-
 - [ReadMe](README.md)  
 
 
